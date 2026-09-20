@@ -1,5 +1,10 @@
 # Oracle Pluggable Databases (PDB) Management - Assignment II
 
+**Name:** [ahmed adam yasir ibrahim]
+**Student ID:** [28865]
+**Group:** [B]
+
+
 ## TASK 1
 ### creating pluggable database
 ```spl
